@@ -1,0 +1,18 @@
+    .background {
+        background-color: rgb(87, 60, 73);
+    }
+    
+    p {
+        color: red;
+    }
+    
+    #załadowanie {
+        align-items: center;
+        padding: 10% 45% 10%;
+    }
+    
+    canvas {
+        position: absolute;
+        top: 100;
+        left: 0;
+    }
